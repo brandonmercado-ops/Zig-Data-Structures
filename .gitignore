@@ -1,0 +1,8 @@
+# Zig build outputs from all subprojects
+**/.zig-cache/
+**/zig-out/
+
+# Editor/system files
+**/.DS_Store
+*.log
+*.tmp
